@@ -27,6 +27,7 @@
 ```
 zatan-script-writer/
 ├── README.md                    本文件，给人看的说明
+├── LICENSE                      本 skill 的 MIT 许可证
 ├── LICENSE-khazix-skills        原版 khazix-writer 的 MIT 许可声明
 ├── SKILL.md                     主流程，Claude 每次都会读
 └── references/                  细则，Claude 按需读
@@ -84,6 +85,8 @@ git clone https://github.com/jiutinglifeng/zatan-script-writer.git ~/.claude/ski
 改写自卡兹克（Khazix）的公众号写作 skill `khazix-writer`（GitHub：`KKKKhazix/khazix-skills`）。保留了原版的人机分工、禁用词表、扣主线句、分层自检框架；去掉了卡兹克个人人设、公众号格式、粗口和口癖、文化升维和 AI 生成比喻；新增了听感规则、事实纪律、数字念法、视频脚本拆分。
 
 原作品以 MIT 许可证发布，原版权声明和许可声明见 [LICENSE-khazix-skills](LICENSE-khazix-skills)。
+
+本 skill 同样以 MIT 许可证发布，见 [LICENSE](LICENSE)。
 
 | 日期 | 变更 |
 |---|---|
